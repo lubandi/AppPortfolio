@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="title">Android Nanodegree Apps</string>
+    <string name="app1_button_text">SPOTIFY STREAMER</string>
+    <string name="app2_button_text">SCORES APP</string>
+    <string name="app3_button_text">LIBRARY APP</string>
+    <string name="app4_button_text">BUILD IT BIGGER</string>
+    <string name="app5_button_text">XYZ READER</string>
+    <string name="app6_button_text">CAPSTONE: MY OWN APP</string>
+    <string name="toast_text">This button will launch %s</string>
+</resources>
